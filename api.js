@@ -1,7 +1,7 @@
 'use strict';
 
 const fs = require('fs');
-const Rx = require('Rx');
+const Rx = require('rx');
 
 exports.findUsers = {
   handler: (request, reply) => {
