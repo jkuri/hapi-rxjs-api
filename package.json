@@ -1,0 +1,27 @@
+{
+  "name": "hapi-rxjs-api",
+  "version": "0.1.0",
+  "description": "Hapi API Using RxJS",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkuri/hapi-rxjs-api.git"
+  },
+  "keywords": [
+    "Hapi",
+    "HapiJS",
+    "RxJS",
+    "API",
+    "Observables"
+  ],
+  "author": "Jan Kuri <jkuri88@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkuri/hapi-rxjs-api/issues"
+  },
+  "homepage": "https://github.com/jkuri/hapi-rxjs-api#readme",
+  "dependencies": {
+    "hapi": "^13.0.0",
+    "rx": "^4.0.7"
+  }
+}
